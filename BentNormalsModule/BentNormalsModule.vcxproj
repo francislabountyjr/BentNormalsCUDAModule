@@ -93,7 +93,7 @@
     </Link>
     <CudaCompile>
       <TargetMachinePlatform>64</TargetMachinePlatform>
-      <CodeGeneration>compute_75,sm_75</CodeGeneration>
+      <CodeGeneration>compute_70,sm_70;compute_75,sm_75;compute_80,sm_80</CodeGeneration>
       <Optimization>O3</Optimization>
       <Include>C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.5/Common;</Include>
     </CudaCompile>
